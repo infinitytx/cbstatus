@@ -1,7 +1,5 @@
 # [📈 Live Status](https://cbstatus.infinitytx.org): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Infinity Texas](https://infinitytx.org), powered by [Upptime](https://github.com/upptime/upptime).
-
 [![Uptime CI](https://github.com/infinitytx/cbstatus/workflows/Uptime%20CI/badge.svg)](https://github.com/infinitytx/cbstatus/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/infinitytx/cbstatus/workflows/Response%20Time%20CI/badge.svg)](https://github.com/infinitytx/cbstatus/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/infinitytx/cbstatus/workflows/Graphs%20CI/badge.svg)](https://github.com/infinitytx/cbstatus/actions?query=workflow%3A%22Graphs+CI%22)
@@ -24,8 +22,3 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visit our status website →**](https://cbstatus.infinitytx.org)
 
-## 📄 License
-
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com), supported by [Pabio](https://pabio.com)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
