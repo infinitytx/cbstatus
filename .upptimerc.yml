@@ -12,7 +12,7 @@ sites:
 status-website:
   cname: cbstatus.infinitytx.org
   logoUrl: https://assets.corvusbelli.net/store/images/not-found.png
-  theme: dark
+  theme: night
   name: CB Status
   introTitle: "**Corvus Belli Status**"
   introMessage: Are you wondering if the Wiki, Forums, or Army Builder are down? Here's what Github thinks.
