@@ -15,7 +15,7 @@ status-website:
   theme: night
   name: CB Status
   introTitle: "**Corvus Belli Status**"
-  introMessage: Are you wondering if the Wiki, Forums, or Army Builder are down? Here's what Github thinks.
+  introMessage: Monitoring the availability of Infinity-related websites. Transient outages of durations less than 5-10 minutes may not be detected.
   navbar:
     - title: Status
       href: /
