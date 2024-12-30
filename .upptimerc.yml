@@ -8,6 +8,8 @@ sites:
     url: https://forum.corvusbelli.com
   - name: Infinity ARMY
     url: https://infinityuniverse.com/army/infinity
+  - name: Corvus Belli Online Store
+    url: https://store.corvusbelli.com/en/
 
 status-website:
   cname: cbstatus.infinitytx.org
