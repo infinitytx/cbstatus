@@ -4,18 +4,20 @@
     "url": "https://infinitythewiki.com/",
     "icon": "https://icons.duckduckgo.com/ip3/infinitythewiki.com.ico",
     "slug": "infinity-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1346,
     "timeDay": 1029,
     "timeWeek": 1058,
-    "timeMonth": 1346,
+    "timeMonth": 1356,
     "timeYear": 1346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-19": 0
+    }
   },
   {
     "name": "Corvus Belli Forums",
@@ -23,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.corvusbelli.com.ico",
     "slug": "corvus-belli-forums",
     "status": "up",
-    "uptime": "44.60%",
+    "uptime": "46.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.60%",
-    "uptimeYear": "44.60%",
+    "uptimeMonth": "45.24%",
+    "uptimeYear": "46.08%",
     "time": 700,
     "timeDay": 903,
     "timeWeek": 972,
-    "timeMonth": 700,
+    "timeMonth": 706,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2025-01-09": 644,
@@ -69,7 +71,7 @@
     "time": 634,
     "timeDay": 408,
     "timeWeek": 505,
-    "timeMonth": 634,
+    "timeMonth": 639,
     "timeYear": 634,
     "dailyMinutesDown": {}
   },
