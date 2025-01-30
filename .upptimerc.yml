@@ -10,6 +10,8 @@ sites:
     url: https://infinityuniverse.com/army/infinity
   - name: Corvus Belli Online Store
     url: https://store.corvusbelli.com/en/
+  - name: Corvus Belli Official Tournament Manager
+    url: https://otm.corvusbelli.com/manager
 
 status-website:
   cname: cbstatus.infinitytx.org
