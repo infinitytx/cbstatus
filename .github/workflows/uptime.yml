@@ -17,14 +17,14 @@
 name: Uptime CI
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/10 * * * *"
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
 jobs:
   release:
     name: Check status
-    runs-on: github-scale-set-infinitytx-cbstatus
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
