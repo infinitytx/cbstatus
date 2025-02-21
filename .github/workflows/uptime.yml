@@ -24,7 +24,7 @@ on:
 jobs:
   release:
     name: Check status
-    runs-on: github-scale-set-infinitytx-cbstatus
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
