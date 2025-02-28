@@ -27,3 +27,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Infinity Texas
       href: https://infinitytx.org
+i18n:
+  footer: Questions, comments, or suggestions? Visit our [Github Repo]($REPO)!
