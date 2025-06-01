@@ -4,19 +4,19 @@
     "url": "https://infinitythewiki.com/",
     "icon": "https://icons.duckduckgo.com/ip3/infinitythewiki.com.ico",
     "slug": "infinity-wiki",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 1216,
-    "timeDay": 5589,
-    "timeWeek": 2220,
-    "timeMonth": 1380,
-    "timeYear": 1216,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.96%",
+    "time": 1306,
+    "timeDay": 9485,
+    "timeWeek": 3893,
+    "timeMonth": 1862,
+    "timeYear": 1306,
     "dailyMinutesDown": {
-      "2025-06-01": 16
+      "2025-06-01": 89
     }
   },
   {
