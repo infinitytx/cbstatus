@@ -35,11 +35,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.corvusbelli.com.ico",
     "slug": "corvus-belli-forums",
     "status": "up",
-    "uptime": "86.06%",
+    "uptime": "86.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.76%",
-    "uptimeYear": "86.06%",
+    "uptimeMonth": "92.65%",
+    "uptimeYear": "86.07%",
     "time": 855,
     "timeDay": 987,
     "timeWeek": 913,
@@ -129,17 +129,19 @@
     "url": "https://otm.corvusbelli.com/manager",
     "icon": "https://icons.duckduckgo.com/ip3/otm.corvusbelli.com.ico",
     "slug": "corvus-belli-official-tournament-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 998,
-    "timeDay": 498,
-    "timeWeek": 886,
-    "timeMonth": 1006,
-    "timeYear": 998,
-    "dailyMinutesDown": {}
+    "time": 994,
+    "timeDay": 335,
+    "timeWeek": 796,
+    "timeMonth": 980,
+    "timeYear": 994,
+    "dailyMinutesDown": {
+      "2025-08-26": 0
+    }
   }
 ]
