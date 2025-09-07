@@ -14,6 +14,8 @@ sites:
     url: https://otm.corvusbelli.com/manager
   - name: Infinity ARMY API
     url: https://api.corvusbelli.com/
+  - name: CorvuSphere
+    url: https://sphere.corvusbelli.com/
 
 status-website:
   cname: cbstatus.infinitytx.org
