@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.26%",
-    "time": 1424,
-    "timeDay": 1027,
-    "timeWeek": 1080,
-    "timeMonth": 1118,
-    "timeYear": 1424,
+    "time": 1422,
+    "timeDay": 1024,
+    "timeWeek": 1075,
+    "timeMonth": 1116,
+    "timeYear": 1422,
     "dailyMinutesDown": {
       "2025-08-25": 20,
       "2025-06-15": 451,
@@ -40,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.78%",
-    "time": 859,
-    "timeDay": 911,
-    "timeWeek": 927,
+    "time": 858,
+    "timeDay": 910,
+    "timeWeek": 925,
     "timeMonth": 926,
-    "timeYear": 859,
+    "timeYear": 858,
     "dailyMinutesDown": {
       "2025-07-28": 773,
       "2025-07-27": 1440,
@@ -101,7 +101,7 @@
     "uptimeYear": "100.00%",
     "time": 555,
     "timeDay": 528,
-    "timeWeek": 562,
+    "timeWeek": 560,
     "timeMonth": 518,
     "timeYear": 555,
     "dailyMinutesDown": {}
@@ -118,33 +118,12 @@
     "uptimeMonth": "98.38%",
     "uptimeYear": "99.80%",
     "time": 367,
-    "timeDay": 371,
-    "timeWeek": 393,
-    "timeMonth": 336,
+    "timeDay": 346,
+    "timeWeek": 380,
+    "timeMonth": 333,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2025-09-06": 711
-    }
-  },
-  {
-    "name": "Infinity ARMY API",
-    "url": "https://api.corvusbelli.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/api.corvusbelli.com.ico",
-    "slug": "infinity-army-api",
-    "status": "up",
-    "uptime": "0.57%",
-    "uptimeDay": "0.57%",
-    "uptimeWeek": "0.57%",
-    "uptimeMonth": "0.57%",
-    "uptimeYear": "0.57%",
-    "time": 388,
-    "timeDay": 388,
-    "timeWeek": 388,
-    "timeMonth": 388,
-    "timeYear": 388,
-    "dailyMinutesDown": {
-      "2025-09-08": 1131,
-      "2025-09-07": 266
     }
   },
   {
@@ -158,11 +137,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 393,
-    "timeWeek": 393,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "time": 436,
+    "timeDay": 436,
+    "timeWeek": 436,
+    "timeMonth": 436,
+    "timeYear": 436,
     "dailyMinutesDown": {}
   },
   {
@@ -176,11 +155,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 277,
-    "timeWeek": 277,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "time": 311,
+    "timeDay": 311,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   }
 ]
