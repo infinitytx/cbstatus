@@ -14,7 +14,7 @@ sites:
   - name: Corvus Belli Online Store
     url: https://store.corvusbelli.com/en/
 
-  - name: Infinity ARMY API (Army Metadata)
+  - name: Infinity ARMY API
     url: https://api.corvusbelli.com/army/infinity/en/metadata
     headers:
       - "Origin: https://infinityuniverse.com"
