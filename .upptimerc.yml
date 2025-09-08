@@ -14,6 +14,15 @@ sites:
     url: https://otm.corvusbelli.com/manager
   - name: Infinity ARMY API
     url: https://api.corvusbelli.com/
+    expectedStatusCodes:
+      - 403
+  - name: Infinity ARMY API (Army Metadata)
+    url: https://api.corvusbelli.com/army/infinity/en/metadata
+    headers:
+      - "Origin: https://infinityuniverse.com"
+    url: https://api.corvusbelli.com/
+    expectedStatusCodes:
+      - 403
   - name: CorvuSphere
     url: https://sphere.corvusbelli.com/
 
