@@ -4,25 +4,29 @@ repo: cbstatus
 sites:
   - name: Infinity Wiki
     url: https://infinitythewiki.com/
+
   - name: Corvus Belli Forums
     url: https://forum.corvusbelli.com
+
   - name: Infinity ARMY
     url: https://infinityuniverse.com/army/infinity
+
   - name: Corvus Belli Online Store
     url: https://store.corvusbelli.com/en/
+
   - name: Corvus Belli Official Tournament Manager
     url: https://otm.corvusbelli.com/manager
+
   - name: Infinity ARMY API
     url: https://api.corvusbelli.com/
     expectedStatusCodes:
       - 403
+
   - name: Infinity ARMY API (Army Metadata)
     url: https://api.corvusbelli.com/army/infinity/en/metadata
     headers:
       - "Origin: https://infinityuniverse.com"
-    url: https://api.corvusbelli.com/
-    expectedStatusCodes:
-      - 403
+
   - name: CorvuSphere
     url: https://sphere.corvusbelli.com/
 
