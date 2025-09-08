@@ -14,9 +14,6 @@ sites:
   - name: Corvus Belli Online Store
     url: https://store.corvusbelli.com/en/
 
-  - name: Corvus Belli Official Tournament Manager
-    url: https://otm.corvusbelli.com/manager
-
   - name: Infinity ARMY API
     url: https://api.corvusbelli.com/
     expectedStatusCodes:
