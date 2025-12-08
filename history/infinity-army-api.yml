@@ -1,7 +1,7 @@
 url: https://api.corvusbelli.com/army/infinity/en/metadata
-status: down
-code: 502
-responseTime: 11851
-lastUpdated: 2025-12-08T17:29:48.837Z
+status: up
+code: 200
+responseTime: 727
+lastUpdated: 2025-12-08T17:54:27.336Z
 startTime: 2025-09-08T19:02:59.261Z
 generator: Upptime <https://github.com/upptime/upptime>
