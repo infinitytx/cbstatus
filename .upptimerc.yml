@@ -22,6 +22,9 @@ sites:
   - name: CorvuSphere
     url: https://sphere.corvusbelli.com/
 
+  - name: Experience (ITS Rankings)
+    url: https://experience.corvusbelli.com/
+
 status-website:
   cname: cbstatus.infinitytx.org
   logoUrl: https://assets.corvusbelli.net/store/images/not-found.png
