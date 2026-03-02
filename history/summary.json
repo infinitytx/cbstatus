@@ -176,19 +176,19 @@
     "url": "https://experience.corvusbelli.com/",
     "icon": "https://icons.duckduckgo.com/ip3/experience.corvusbelli.com.ico",
     "slug": "experience-its-rankings",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 699,
-    "timeDay": 547,
-    "timeWeek": 710,
-    "timeMonth": 699,
-    "timeYear": 699,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.95%",
+    "time": 701,
+    "timeDay": 655,
+    "timeWeek": 728,
+    "timeMonth": 705,
+    "timeYear": 701,
     "dailyMinutesDown": {
-      "2026-03-02": 0
+      "2026-03-02": 64
     }
   }
 ]
