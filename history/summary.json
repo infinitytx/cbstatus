@@ -50,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.corvusbelli.com.ico",
     "slug": "corvus-belli-forums",
     "status": "up",
-    "uptime": "92.05%",
+    "uptime": "92.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -176,17 +176,19 @@
     "url": "https://experience.corvusbelli.com/",
     "icon": "https://icons.duckduckgo.com/ip3/experience.corvusbelli.com.ico",
     "slug": "experience-its-rankings",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 702,
-    "timeDay": 607,
-    "timeWeek": 742,
-    "timeMonth": 707,
-    "timeYear": 702,
-    "dailyMinutesDown": {}
+    "time": 699,
+    "timeDay": 547,
+    "timeWeek": 710,
+    "timeMonth": 699,
+    "timeYear": 699,
+    "dailyMinutesDown": {
+      "2026-03-02": 0
+    }
   }
 ]
