@@ -6,13 +6,13 @@
     "slug": "infinity-wiki",
     "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.84%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "98.83%",
     "time": 1699,
     "timeDay": 4427,
-    "timeWeek": 2325,
+    "timeWeek": 2424,
     "timeMonth": 1524,
     "timeYear": 1701,
     "dailyMinutesDown": {
@@ -37,7 +37,8 @@
       "2026-03-20": 39,
       "2026-03-28": 89,
       "2026-06-29": 300,
-      "2026-08-07": 0
+      "2026-08-08": 41,
+      "2026-08-07": 4
     }
   },
   {
@@ -53,7 +54,7 @@
     "uptimeYear": "99.98%",
     "time": 1403,
     "timeDay": 941,
-    "timeWeek": 1029,
+    "timeWeek": 1008,
     "timeMonth": 1095,
     "timeYear": 1583,
     "dailyMinutesDown": {
@@ -74,7 +75,7 @@
     "uptimeYear": "100.00%",
     "time": 589,
     "timeDay": 488,
-    "timeWeek": 584,
+    "timeWeek": 555,
     "timeMonth": 613,
     "timeYear": 608,
     "dailyMinutesDown": {}
@@ -92,7 +93,7 @@
     "uptimeYear": "98.34%",
     "time": 653,
     "timeDay": 863,
-    "timeWeek": 954,
+    "timeWeek": 937,
     "timeMonth": 923,
     "timeYear": 742,
     "dailyMinutesDown": {
@@ -119,7 +120,7 @@
     "uptimeYear": "99.68%",
     "time": 730,
     "timeDay": 560,
-    "timeWeek": 726,
+    "timeWeek": 721,
     "timeMonth": 638,
     "timeYear": 730,
     "dailyMinutesDown": {
@@ -144,7 +145,7 @@
     "uptimeYear": "100.00%",
     "time": 302,
     "timeDay": 294,
-    "timeWeek": 305,
+    "timeWeek": 302,
     "timeMonth": 284,
     "timeYear": 302,
     "dailyMinutesDown": {}
@@ -162,7 +163,7 @@
     "uptimeYear": "99.98%",
     "time": 870,
     "timeDay": 968,
-    "timeWeek": 1180,
+    "timeWeek": 1171,
     "timeMonth": 1116,
     "timeYear": 870,
     "dailyMinutesDown": {
