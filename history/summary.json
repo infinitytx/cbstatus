@@ -50,21 +50,21 @@
     "url": "https://forum.corvusbelli.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.corvusbelli.com.ico",
     "slug": "corvus-belli-forums",
-    "status": "down",
-    "uptime": "94.82%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "94.79%",
+    "uptimeDay": "77.31%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.92%",
     "time": 1631,
-    "timeDay": 7263,
-    "timeWeek": 12111,
-    "timeMonth": 4442,
-    "timeYear": 1882,
+    "timeDay": 5174,
+    "timeWeek": 10876,
+    "timeMonth": 4335,
+    "timeYear": 1879,
     "dailyMinutesDown": {
       "2026-03-03": 54,
       "2026-08-02": 60,
-      "2026-10-23": 0
+      "2026-10-23": 327
     }
   },
   {
