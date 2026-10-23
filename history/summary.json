@@ -50,20 +50,21 @@
     "url": "https://forum.corvusbelli.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.corvusbelli.com.ico",
     "slug": "corvus-belli-forums",
-    "status": "up",
+    "status": "down",
     "uptime": "94.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1631,
-    "timeDay": 13625,
-    "timeWeek": 13712,
-    "timeMonth": 4560,
-    "timeYear": 1884,
+    "timeDay": 7263,
+    "timeWeek": 12111,
+    "timeMonth": 4442,
+    "timeYear": 1882,
     "dailyMinutesDown": {
       "2026-03-03": 54,
-      "2026-08-02": 60
+      "2026-08-02": 60,
+      "2026-10-23": 0
     }
   },
   {
@@ -90,7 +91,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/store.corvusbelli.com.ico",
     "slug": "corvus-belli-online-store",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
